@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giova\\source\\repos\\Aula11_EX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBA5169-6CE4-4E95-A625-8D3B6B791FC6}|Aula11_EX1\\Aula11_EX1.csproj|c:\\users\\giova\\source\\repos\\aula11_ex1\\aula11_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBA5169-6CE4-4E95-A625-8D3B6B791FC6}|Aula11_EX1\\Aula11_EX1.csproj|solutionrelative:aula11_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBA5169-6CE4-4E95-A625-8D3B6B791FC6}|Aula11_EX1\\Aula11_EX1.csproj|C:\\Users\\giova\\source\\repos\\Aula11_EX1\\aula11_ex1\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBA5169-6CE4-4E95-A625-8D3B6B791FC6}|Aula11_EX1\\Aula11_EX1.csproj|solutionrelative:aula11_ex1\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\Aula11_EX1\\Aula11_EX1\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Aula11_EX1\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\Aula11_EX1\\Aula11_EX1\\Retangulo.cs",
+              "RelativeToolTip": "Aula11_EX1\\Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:26:27.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\Aula11_EX1\\Aula11_EX1\\Program.cs",
+              "RelativeDocumentMoniker": "Aula11_EX1\\Program.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\Aula11_EX1\\Aula11_EX1\\Program.cs",
+              "RelativeToolTip": "Aula11_EX1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:23:50.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

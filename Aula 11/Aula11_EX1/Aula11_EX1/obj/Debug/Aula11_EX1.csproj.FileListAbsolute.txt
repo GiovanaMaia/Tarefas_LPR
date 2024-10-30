@@ -1,0 +1,7 @@
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\obj\Debug\Aula11_EX1.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\obj\Debug\Aula11_EX1.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\bin\Debug\Aula11_EX1.exe.config
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\bin\Debug\Aula11_EX1.exe
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\bin\Debug\Aula11_EX1.pdb
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\obj\Debug\Aula11_EX1.exe
+C:\Users\giova\source\repos\Aula11_EX1\Aula11_EX1\obj\Debug\Aula11_EX1.pdb
