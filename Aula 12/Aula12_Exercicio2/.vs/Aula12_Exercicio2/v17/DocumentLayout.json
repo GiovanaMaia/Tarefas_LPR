@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9839948-8082-43E9-A707-2C9162A5AEB6}|Aula12_Exercicio2\\Aula12_Exercicio2.csproj|c:\\users\\giova\\source\\repos\\aula12_exercicio2\\aula12_exercicio2\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9839948-8082-43E9-A707-2C9162A5AEB6}|Aula12_Exercicio2\\Aula12_Exercicio2.csproj|solutionrelative:aula12_exercicio2\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9839948-8082-43E9-A707-2C9162A5AEB6}|Aula12_Exercicio2\\Aula12_Exercicio2.csproj|c:\\users\\giova\\source\\repos\\aula12_exercicio2\\aula12_exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9839948-8082-43E9-A707-2C9162A5AEB6}|Aula12_Exercicio2\\Aula12_Exercicio2.csproj|solutionrelative:aula12_exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9839948-8082-43E9-A707-2C9162A5AEB6}|Aula12_Exercicio2\\Aula12_Exercicio2.csproj|c:\\users\\giova\\source\\repos\\aula12_exercicio2\\aula12_exercicio2\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9839948-8082-43E9-A707-2C9162A5AEB6}|Aula12_Exercicio2\\Aula12_Exercicio2.csproj|solutionrelative:aula12_exercicio2\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\Aula12_Exercicio2\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Aula12_Exercicio2\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\Aula12_Exercicio2\\Biblioteca.cs*",
+              "RelativeToolTip": "Aula12_Exercicio2\\Biblioteca.cs*",
+              "ViewState": "AQIAAAkAAAAAMRvJqC0ewBoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T01:20:06.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\Aula12_Exercicio2\\Livro.cs",
+              "RelativeDocumentMoniker": "Aula12_Exercicio2\\Livro.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\Aula12_Exercicio2\\Livro.cs",
+              "RelativeToolTip": "Aula12_Exercicio2\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T01:19:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\Aula12_Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Aula12_Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\giova\\source\\repos\\Aula12_Exercicio2\\Aula12_Exercicio2\\Program.cs",
+              "RelativeToolTip": "Aula12_Exercicio2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T01:17:33.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

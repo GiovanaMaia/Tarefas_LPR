@@ -1,0 +1,7 @@
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\bin\Debug\Aula12_Exercicio2.exe.config
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\bin\Debug\Aula12_Exercicio2.exe
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\bin\Debug\Aula12_Exercicio2.pdb
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\obj\Debug\Aula12_Exercicio2.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\obj\Debug\Aula12_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\obj\Debug\Aula12_Exercicio2.exe
+C:\Users\giova\source\repos\Aula12_Exercicio2\Aula12_Exercicio2\obj\Debug\Aula12_Exercicio2.pdb
